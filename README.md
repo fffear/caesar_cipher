@@ -10,6 +10,6 @@ This is a simple program which takes a string and a shift factor, and converts a
 ```
 
 To read more about Caesar Cipher, click [here](https://en.wikipedia.org/wiki/Caesar_cipher)
-[Link to "The Odin Project"](https://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks)
+Link to ["The Odin Project"](https://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks)
 
 
